@@ -21,7 +21,7 @@ python3 main.py
 ---
 # Installation via Script:
 ```
-1. Download the [Script](https://github.com/SoftwareUser23/reverse-shell-generator/blob/main/install.sh) 
+1. Download the Script [Link](https://github.com/SoftwareUser23/reverse-shell-generator/blob/main/install.sh) 
 2. Give executable permission  
 chmod +x install.sh
 3. Run it
