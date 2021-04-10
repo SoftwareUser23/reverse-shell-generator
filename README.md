@@ -1,5 +1,6 @@
 ### A Simple Script that I coded in Python to generate reverse shells instantly. You don't need to open Google every time, hehe.
 
+# Version : 1.0
 ---
 
 ![image](https://user-images.githubusercontent.com/69643038/114229963-2a5fd600-9996-11eb-9456-10fa17eb907e.png)
