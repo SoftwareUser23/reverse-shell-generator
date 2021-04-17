@@ -1,6 +1,17 @@
 ### A Simple Script that I coded in Python to generate reverse shells instantly. You don't need to open Google every time, hehe.
 
-# Version : 1.0
+### Old Version : 1.0
+
+# New Version : 1.1
+
+# Features :
+
+```
+1. Self Port Selection
+2. Generate all shells at one time
+3. Delete Previously Saved Shells
+```
+
 ---
 
 ![image](https://user-images.githubusercontent.com/69643038/114229963-2a5fd600-9996-11eb-9456-10fa17eb907e.png)
@@ -35,5 +46,7 @@ chmod +x install.sh
 ![image](https://user-images.githubusercontent.com/69643038/114230059-4bc0c200-9996-11eb-9e15-a5641f98d6f8.png)
 
 ---
+
+**Feel free to contribute**
 
 # Made By SoftwareUser23 with love :heart: .
